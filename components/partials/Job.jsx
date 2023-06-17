@@ -14,18 +14,18 @@ const Job = () => {
       requirements: ['Requirement 1', 'Requirement 2', 'Requirement 3'],
     },
     {
-      title: 'Job Title 2',
-      description: 'Job Description 2',
+      title: 'Job Title 3',
+      description: 'Job Description 3',
       requirements: ['Requirement 1', 'Requirement 2', 'Requirement 3'],
     },
     {
-      title: 'Job Title 2',
-      description: 'Job Description 2',
+      title: 'Job Title 4',
+      description: 'Job Description 4',
       requirements: ['Requirement 1', 'Requirement 2', 'Requirement 3'],
     },
     {
-      title: 'Job Title 2',
-      description: 'Job Description 2',
+      title: 'Job Title 5',
+      description: 'Job Description 5',
       requirements: ['Requirement 1', 'Requirement 2', 'Requirement 3'],
     },
   ];
